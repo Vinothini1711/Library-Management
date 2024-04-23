@@ -1,4 +1,6 @@
-# Library-Management
+# EXP2
+## DATE:
+## LIBRARY MANAGEMENT
 ### AIM:
 To study the problem statement, SRS document and draw all the UML diagrams of a Library Management System.
 ### PROBLEM STATEMENT:
